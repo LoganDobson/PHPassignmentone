@@ -1,0 +1,31 @@
+*{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+h1{
+    justify-content: center;
+    color: darkblue;
+    text-align: center;
+}
+
+h2{
+    justify-content: center;
+    text-align: center;
+}
+
+ol{
+    
+    justify-content: center;
+    text-align: center;
+    padding: .5em;
+}
+
+ul{
+    
+    padding: .5em;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 5px;
+}
